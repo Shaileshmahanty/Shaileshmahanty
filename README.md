@@ -3,6 +3,7 @@
 **Shaileshmahanty/Shaileshmahanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1>Shailesh Mahanty</h1>
+<hr>
 <h3>COMPUTER ENGINEER</h3>
 <hr>
 <h2>My skills include :</h2>
@@ -28,7 +29,7 @@
     <li>- 👯 I’m looking to collaborate on new Projects & StartUps</li>
     <li>- 🤔 I’m looking for help with Learning something Intresting and A Good Freshers Position for a better Kickstart</li>
     <li>- 💬 Ask me about any my CS Subjects and Trends on wheel</li>
-    <li>- 📫 How to reach me: <a href="https://m.facebook.com/shailesh.mahanty">Facebook</a><a href="https://www.instagram.com/shaileshmahanty/">Instagram</a><a href="https://www.linkedin.com/in/shailesh-mahanty-7733321b6">Linkdin</a></li>
+    <li>- 📫 How to reach me: <a href="https://m.facebook.com/shailesh.mahanty">Facebook</a> | <a href="https://www.instagram.com/shaileshmahanty/">Instagram</a> | <a href="https://www.linkedin.com/in/shailesh-mahanty-7733321b6">Linkdin</a></li>
     <li>- 😄 Pronouns: Software Engineer ,Problem Solver ,Curious Researcher</li>
     <li>- ⚡ Fun fact: I do Bluss...</li>
 </u>
