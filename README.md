@@ -20,6 +20,7 @@ I'm a graduate in Computer Science 🎓 from Gujarat Technological University �
     <li>- 😄 Pronouns: Software Engineer ,Problem Solver ,Curious Researcher</li>
     <li>- ⚡ Fun fact: I do Bluss...</li>
 </u>
+
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
