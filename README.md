@@ -16,7 +16,7 @@ I'm a graduate in Computer Science 🎓 from Gujarat Technological University �
     <li>- 👯 I’m looking to collaborate on new Projects & StartUps</li>
     <li>- 🤔 I’m looking for help with Learning something Intresting and A Good Freshers Position for a better Kickstart</li>
     <li>- 💬 Ask me about any my CS Subjects and Trends on wheel</li>
-    <li>- 📫 How to reach me: <a href="https://m.facebook.com/shailesh.mahanty">Facebook</a> | <a href="https://www.instagram.com/shaileshmahanty/">Instagram</a> | <a href="https://www.linkedin.com/in/shailesh-mahanty-7733321b6">LinkedIn</a></li>
+    <li>- 📫 How to reach me: <a href="https://m.facebook.com/shailesh.mahanty">Facebook</a> | <a href="https://www.instagram.com/shaileshmahanty/">Instagram</a> | <a href="https://www.linkedin.com/in/shailesh-mahanty">LinkedIn</a></li>
     <li>- 😄 Pronouns: Software Engineer ,Problem Solver ,Curious Researcher</li>
     <li>- ⚡ Fun fact: I do Bluss...</li>
 </u>
